@@ -1,0 +1,1 @@
+{"indexes":[{"collectionGroup":"transactions","queryScope":"COLLECTION_GROUP","fields":[{"fieldPath":"type","order":"ASCENDING"},{"fieldPath":"status","order":"ASCENDING"}]}],"fieldOverrides":[]}
